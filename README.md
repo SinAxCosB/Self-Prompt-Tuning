@@ -135,3 +135,16 @@ This is a PyTorch implementation of the paper: `Revisiting the Power of Prompt f
   <div style="text-align:center"><img src="train-curve/MAE_ViT-B_Patch.png" width="90%" ></div>
 
 - The accuracy fluctuates within a reasonable range. For example, we get 80.26, 80.39, 79.74 test accuracy when we fine-tuning MAE pre-trained ViT-B on CUB-200 three times with varying random seeds.
+
+
+### 5. Citation
+```BibTeX
+@misc{wang2024revisiting,
+      title={Revisiting the Power of Prompt for Visual Tuning}, 
+      author={Yuzhu Wang and Lechao Cheng and Chaowei Fang and Dingwen Zhang and Manni Duan and Meng Wang},
+      year={2024},
+      eprint={2402.02382},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
