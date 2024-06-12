@@ -139,12 +139,11 @@ This is a PyTorch implementation of the paper: `Revisiting the Power of Prompt f
 
 ### 5. Citation
 ```BibTeX
-@misc{wang2024revisiting,
-      title={Revisiting the Power of Prompt for Visual Tuning}, 
-      author={Yuzhu Wang and Lechao Cheng and Chaowei Fang and Dingwen Zhang and Manni Duan and Meng Wang},
-      year={2024},
-      eprint={2402.02382},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{
+wang2024revisiting,
+title={Revisiting the Power of Prompt for Visual Tuning},
+author={Yuzhu Wang and Lechao Cheng and Chaowei Fang and Dingwen Zhang and Manni Duan and Meng Wang},
+booktitle={Forty-first International Conference on Machine Learning},
+year={2024},
 }
 ```
