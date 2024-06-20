@@ -57,6 +57,11 @@ This is a PyTorch implementation of the paper: `Revisiting the Power of Prompt f
     
     - For supervised pre-training models, timm can avoid the trouble of weight format conversion (npz --> pth).
 
+- Val-set curves and recipes
+
+  - The task datasets, tuned model weights, some val-set accuracy curves, and train recipes in [link](https://pan.baidu.com/s/1Z4skq5RUc_insf4Ye2uYGg?pwd=ig33).
+
+
 ### 2. MAE Pre-training
 
   ```bash
@@ -139,11 +144,11 @@ This is a PyTorch implementation of the paper: `Revisiting the Power of Prompt f
 
 ### 5. Citation
 ```BibTeX
-     @inproceedings{
-     wang2024revisiting,
-     title={Revisiting the Power of Prompt for Visual Tuning},
-     author={Yuzhu Wang and Lechao Cheng and Chaowei Fang and Dingwen Zhang and Manni Duan and Meng Wang},
-     booktitle={Forty-first International Conference on Machine Learning},
-     year={2024},
+@inproceedings{
+    wang2024revisiting,
+    title={Revisiting the Power of Prompt for Visual Tuning},
+    author={Yuzhu Wang and Lechao Cheng and Chaowei Fang and Dingwen Zhang and Manni Duan and Meng Wang},
+    booktitle={Forty-first International Conference on Machine Learning},
+    year={2024},
 }
 ```
