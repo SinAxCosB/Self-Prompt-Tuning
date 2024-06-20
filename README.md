@@ -29,7 +29,7 @@ This is a PyTorch implementation of the paper: `Revisiting the Power of Prompt f
 
       - [Stanford Cars](https://ai.stanford.edu/~jkrause/cars/car_dataset.html)
     
-    - Visual Task Adaptation Benchmark (VTAB-1K). Downloading these data sets is troublesome. It is recommended to refer to existing repo, such as VPT. We will release the splited training set, validation set and test set later to facilitate experimentation by others in the community.
+    - Visual Task Adaptation Benchmark (VTAB-1K). Downloading these data sets is troublesome. It is recommended to refer to existing repo, such as VPT.
 
     - The file folder `./Dataset` implements image reading and preprocessing for FGVC and VTAB-1K.
 
